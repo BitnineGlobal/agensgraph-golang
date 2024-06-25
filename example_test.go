@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/bitnine-oss/agensgraph-golang"
+	"github.com/BitnineGlobal/agensgraph-golang"
 )
 
 type knows struct {
